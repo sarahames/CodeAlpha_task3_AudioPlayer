@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/playler2.jpeg" width="500" alt="Playlist Screenshot"/>
+  <img src="./assets/player2.jpeg" width="500" alt="Playlist Screenshot"/>
 </p>
 
 ## 📌 **Overview**
